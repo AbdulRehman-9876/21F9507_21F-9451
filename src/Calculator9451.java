@@ -9,6 +9,8 @@ public class Calculator9451 {
 		System.out.println("Addition:"+sum);
 		sum=v1-v2;
 		System.out.println("Subtraction:"+sum);
+sum=v1/v2;
+System.out.println("Division:"+sum);
 
 	}
 
