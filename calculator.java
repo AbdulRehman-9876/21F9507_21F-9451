@@ -1,4 +1,4 @@
-public class calculatot{
+public class calculator{
 	
 	public static void main(String [] arg)
 	{
@@ -7,7 +7,7 @@ public class calculatot{
 		
 		int sum=v1+v2;
 		System.out.println("Addition:"+sum);
-		int sum=v1-v2;
+		sum=v1-v2;
 		System.out.println("Subtraction:"+sum);
 	}
 	
